@@ -1,0 +1,20 @@
+.test{
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 10px;
+    border-left: solid 2px red;
+    margin-bottom: 20px;
+    width: fit-content;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    color: salmon;
+}
+div h3{
+color: rgb(161, 61, 61);
+    text-align: center;
+}
+div p {
+    text-align: justify;
+}
